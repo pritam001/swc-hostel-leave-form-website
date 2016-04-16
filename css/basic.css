@@ -1,0 +1,29 @@
+#login_div{
+	background-image: url("../images/base-screenshoots.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+
+}
+
+#reg_content{
+	background-color: black;
+	background-image: url("../images/black-cover.jpg");
+	background-size: cover;
+	color: white;
+	width:50%; 
+	position: fixed; 
+	overflow-y:auto;
+	max-width:100%;
+    max-height:100%;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -0%); /* Yep! */
+	width: 48%;
+	height: 59%;
+
+}
+
+.well{
+	box-shadow: 2px 5px 15px rgba(0, 0, 0, 0.7);
+}
